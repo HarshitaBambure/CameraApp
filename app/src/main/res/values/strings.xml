@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera App</string>
+    <string name="camera">Camera</string>
+    <string name="image_viewer">Image Viewer</string>
+    <string name="back_to_home">Back to Home.</string>
+    <string name="choose_image">Choose Image</string>
+</resources>
